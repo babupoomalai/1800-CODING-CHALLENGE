@@ -34,7 +34,7 @@ Run Instructions:
 1. Run the class named App.java (com.phone.number.app) with following 3 usecases.
  -  If argument given with -d add <word1> <word2>	- it adds above words to the dictionary
  - filepath - runs the program for numbers specified in the file and prints the possible matches
- - <No command line arguments> - It asks for phonenumber on command line input and prints output
+ - No arguments - It asks for phonenumber on command line input and prints output
 		
 
 The dictionary words are stored in data/word-dictionary.txt
